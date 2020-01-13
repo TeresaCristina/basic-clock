@@ -1,0 +1,22 @@
+/*Sunday, 12, January, 2020
+Teresa Costa
+I am a basic clock! :)
+*/
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #850640;
+}
+.full-date-time {
+	font-family: 'Share Tech Mono', monospace;
+	text-align: center;
+	color: #ffffff;
+	text-shadow: #E08FB4  0.1em 0.1em 0.2em;		
+}
+.clock {
+	font-size: 100px;
+}
+.date {
+	font-size: 50px;
+}
